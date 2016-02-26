@@ -1,7 +1,7 @@
 name: marc calvary
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
+layout_spectrum: 0.7929993765428662
+typography_spectrum: 0.5482817813754082
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#4b0a06'
-    - '#7f5614'
-    - '#c4c7de'
-    - '#af9390'
-  brandStrength: 1
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.919776314869523
+  lightness: 0.09706069761887193
+  saturation: 0.5761676346883178
+  rhythmicContrast: 0.13690366107039154
 purpose: []
