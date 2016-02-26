@@ -1,7 +1,7 @@
 name: marc calvary
 favicon: null
-layout_spectrum: 0.7576
-typography_spectrum: 0.5482817813754082
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#7f5614'
     - '#c4c7de'
     - '#af9390'
-  brandStrength: 1
-  lightness: 0.09706069761887193
-  saturation: 0.5
-  rhythmicContrast: 0.13690366107039154
+  brandStrength: 0
+  lightness: 0.8125
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
