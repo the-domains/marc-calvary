@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[marc calvary]]></title>
+        <description><![CDATA[marc calvary]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Feb 2016 21:41:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[marccalvary.com]]></title>
+            <description><![CDATA[<article><h1>marccalvary.com</h1><p>A visual representation of current projects by Marc Calvary</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cefd49384557b5f42c5ed7fdc66a5ee134f7db5a.jpg"></article>]]></description>
+            <link>undefinedmarccalvarycom/index.html</link>
+            <guid isPermaLink="false">433294a7-f6bb-4277-91f0-57afb5a04374</guid>
+            <pubDate>Thu, 25 Feb 2016 21:41:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
