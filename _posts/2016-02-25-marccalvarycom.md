@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T00:05:32.821Z'
-dateModified: '2016-02-25T21:49:27.160Z'
+datePublished: '2016-02-29T23:30:23.315Z'
+dateModified: '2016-02-26T00:05:41.649Z'
 title: marccalvary.com
 author: []
 sourcePath: _posts/2016-02-25-marccalvarycom.md
